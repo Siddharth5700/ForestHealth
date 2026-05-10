@@ -79,7 +79,7 @@ matplotlib-inline==0.1.7
 mdurl==0.1.2
 mistune==3.0.2
 ml-dtypes==0.4.1
-mysql-connector-python==8.0.20
+mysql-connector-python==8.0.33
 namex==0.0.8
 nbclient==0.10.1
 nbconvert==7.16.4
